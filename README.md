@@ -1,1 +1,2 @@
 # M1-Optimisation-project
+Dans ces deux projets, j'ai travaillé sur des exercices d'optimisation avec différentes méthodes qui cherchent des minimums et des maximums des problèmes, en donnant différentes explications et interprétations des résultats et des figures trouvées dans les notebooks. Il y a différents exercices et les résultats obtenus.
